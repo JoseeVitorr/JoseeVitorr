@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! I'm a Computacional Physics Undergraduate Student 
+I'm interested in scientific computing, numerical simulations and data science. Currently, I'm working on Computacional Fluid Dynamics (CFD). 
 
-<!--
-**JoseeVitorr/JoseeVitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="45" />
+</p>
 
-Here are some ideas to get you started:
+## Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VS Code
+- Linux 
+- Google Colab
